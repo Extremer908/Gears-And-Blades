@@ -1,0 +1,42 @@
+{
+  "mod_elements": [
+    {
+      "name": "ClickingSpider",
+      "type": "livingentity",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "clicking_spider"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.gears_and_blades.clicking_spider_spawn_egg": "Clicking Spider Spawn Egg",
+      "entity.gears_and_blades.clicking_spider": "Clicking Spider"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "gears_and_blades",
+    "modName": "Gears and Blades",
+    "version": "1.0.0",
+    "author": "HPE, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.gearsandblades",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}
